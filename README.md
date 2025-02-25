@@ -77,4 +77,4 @@ Além disso, podemos aprofundar a análise buscando avaliações com sentimento 
 
 ## Conclusão e Insights
 
-No cenário atual, onde há uma quantidade massiva de informações sendo geradas diariamente, a capacidade de organizar, analisar e extrair valor dos dados se tornou essencial. O uso de Azure AI Search em conjunto com técnicas de Document Intelligence possibilita a transformação de textos não estruturados em insights valiosos.
+Com a enorme quantidade de dados gerados todos os dias, organizar e extrair informações relevantes se tornou um grande desafio. Utilizando o Azure AI Search junto com técnicas de Document Intelligence, é possível transformar textos brutos em insights úteis, facilitando a análise e a tomada de decisões.
